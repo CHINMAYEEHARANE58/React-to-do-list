@@ -1,0 +1,26 @@
+.main{
+  width: 100vw;
+  height: 100vw;
+  text-align: center;
+}
+
+.addTodo{
+  margin-top: 30vh;
+}
+
+#inputBox{
+  width: 300px;
+  height: 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.buttonsStyle{
+  margin-left: 10px;
+  width: 70px;
+  height: 40px;
+  color: azure;
+  background-color: rgb(9, 143, 143);
+  text-align: center;
+  padding-right: 70px;
+}
